@@ -21,9 +21,3 @@ A clean and responsive landing page inspired by **Dribbble**, built using only H
 ### View Online
 
 👉 [Live Demo](https://your-live-demo-link.com)
-
-### Run Locally
-
-1. Clone the repo
-```bash
-git clone https://github.com/yourusername/dribbble-clone-landing-page.git
